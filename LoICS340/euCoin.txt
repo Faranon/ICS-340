@@ -1,0 +1,8 @@
+~ val 60 30 24 12 6 3 1
+Sixty 60 ~ ~ ~ ~ ~ ~ ~
+Thirty 30 ~ ~ ~ ~ ~ ~ ~
+TwentyFour 24 ~ ~ ~ ~ ~ ~ ~
+Twelve 12 ~ ~ ~ ~ ~ ~ ~
+Six 6 ~ ~ ~ ~ ~ ~ ~
+Three 3 ~ ~ ~ ~ ~ ~ ~
+One 1 ~ ~ ~ ~ ~ ~ ~

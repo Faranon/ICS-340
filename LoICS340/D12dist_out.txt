@@ -1,0 +1,5 @@
+Graph: D12dist
+There are 12 nodes in the graph
+There are 46 edges in the graph
+Node Chi has the most outgoing edges (7).
+The longest edges are edges MplSea and SeaMpl (1415)

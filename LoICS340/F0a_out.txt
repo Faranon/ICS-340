@@ -1,0 +1,5 @@
+Graph: F0a
+There are 12 nodes in the graph
+There are 46 edges in the graph
+Node C has the most outgoing edges (7).
+The longest edges are edges MS and SM (1415)

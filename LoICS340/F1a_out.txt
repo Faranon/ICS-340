@@ -1,0 +1,5 @@
+Graph: F1a
+There are 5 nodes in the graph
+There are 13 edges in the graph
+Node A, B, D, and E has the most outgoing edges (3).
+The longest edges are edges CA (9)

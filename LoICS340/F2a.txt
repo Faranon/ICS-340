@@ -1,0 +1,3 @@
+~ val A B
+Alpha ~ ~ ~
+Bravo S ~ ~

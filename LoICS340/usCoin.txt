@@ -1,0 +1,6 @@
+~ val 50 25 10 5 1
+Fifty 50 ~ ~ ~ ~ ~
+TwentyFive 25 ~ ~ ~ ~ ~
+Ten 10 ~ ~ ~ ~ ~
+Five 5 ~ ~ ~ ~ ~
+One 1 ~ ~ ~ ~ ~
